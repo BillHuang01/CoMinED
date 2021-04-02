@@ -1,0 +1,3 @@
+# Ignore R history file
+*.Rhistory
+*.DS_Store
